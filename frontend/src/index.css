@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  font-family: 'Poppins', 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #f5f5f5;
+  color: #333;
+}
+
+code {
+  font-family: 'Fira Code', Monaco, Consolas, Menlo, 'Lucida Console', monospace;
+  background-color: #f4f4f4;
+  padding: 2px 6px;
+  border-radius: 4px;
+  color: #c7254e;
+  font-size: 1rem;
+}
